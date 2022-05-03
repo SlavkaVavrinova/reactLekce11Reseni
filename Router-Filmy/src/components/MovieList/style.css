@@ -1,0 +1,11 @@
+.movieList {
+  list-style-type: none;
+}
+
+.movieList__poster {
+  height: 4rem;
+}
+
+.movieList__item {
+  margin-bottom: 50px;
+}
